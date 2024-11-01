@@ -1,3 +1,4 @@
+package BasicProgramming;
 import java.util.Arrays;
 
 public class Problem3300 {
